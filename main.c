@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("hajimi1\n");
+    printf("hajimi2\n");
 }
